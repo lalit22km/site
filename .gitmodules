@@ -1,0 +1,7 @@
+[submodule "lxlit.dev/themes/cupper-hugo-theme"]
+	path = lxlit.dev/themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "lxlit.dev/public"]
+	path = lxlit.dev/public
+	url = https://github.com/lalit22km/lxlit.dev.git
+	branch = main
